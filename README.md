@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/HERIK238?style=social)](https://github.com/HERIK238)
 [![Twitter](https://img.shields.io/badge/Twitter-@HERIK238-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/HERIK238)
-[![Email](https://img.shields.io/badge/Email-herikbernalgome@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:herikbernalgome@gmail.com)
+[![Email](https://img.shields.io/badge/Email-herikbernalgomez@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:herikbernalgome@gmail.com)
 
 Desarrollador Full Stack con pasión por crear **aplicaciones web modernas y robustas**. Especializado en PHP, JavaScript y base de datos, con experiencia en proyectos de inicio a fin.
 
