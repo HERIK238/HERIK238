@@ -104,7 +104,7 @@ const herik = {
   name: "HERIK",
   role: "Full Stack Developer",
   passion: "Crear soluciones web escalables",
-  email: "herikbernalgome@gmail.com"
+  email: "herikbernalgomez@gmail.com"
 };
 ```
 
