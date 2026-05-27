@@ -37,6 +37,12 @@ Plataforma web para crear y compartir reseñas de videojuegos con autenticación
 **Tech:** PHP 8 • MySQL • Bootstrap 5 • Google OAuth • JavaScript  
 **Features:** Autenticación, CRUD de reseñas, Dashboard, API RESTful
 
+### 🌍 [Proyecto Survival](https://github.com/HERIK238/PROYECTO-SURVIVAL-)
+Sistema integral de supervivencia con gestión de recursos, API RESTful documentada y componentes modulares. Arquitectura escalable para simulación y gestión en tiempo real.
+
+**Tech:** PHP 8 • MySQL • API RESTful • Bootstrap • JavaScript  
+**Features:** API Documentation, Component Architecture, Resource Management, Real-time Updates
+
 ---
 
 ## 📊 Estadísticas
@@ -83,7 +89,7 @@ Plataforma web para crear y compartir reseñas de videojuegos con autenticación
 
 ## 📫 Conéctate conmigo
 
-- 💬 **Email:** herikbernalgome@gmail.com
+- 💬 **Email:** herikbernalgomez@gmail.com
 - 🔗 **GitHub:** [@HERIK238](https://github.com/HERIK238)
 - 📍 **Ubicación:** Colombia
 
